@@ -31,10 +31,10 @@ Mini projeto:
 
 Fazendo aplicações com Python e com CRUD por esta ordem.
 
-C - CREATE ( criar os produtos )
-R - READ  ( ler os produtos )
-U - UPDATE ( atualizar os produtos )
-D - DELETE ( deletar os produtos )
+- C => CREATE ( criar os produtos )
+- R => READ  ( ler os produtos )
+- U => UPDATE ( atualizar os produtos )
+- D => DELETE ( deletar os produtos )
 
 
 Menu:
